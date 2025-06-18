@@ -22,7 +22,7 @@
 ---
 
 ### 🔗 Let's connect (coming soon):
-[Portfolio](#) | [LinkedIn](#) | [zainulcode@gmailcom](#)
+[Portfolio](#) | [LinkedIn](#) | [zainulcode@gmail.com](#)
 
 ---
 
