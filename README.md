@@ -1,4 +1,32 @@
-## Hi there 👋
+# Hi, I'm Zainul 👋
+
+🎓 Aspiring AI & Python Developer  
+💻 Learning to build real-world projects  
+📚 Currently focused on Python, GitHub, and AI basics
+
+---
+
+### 🌱 What I'm doing right now:
+- Solving Python challenges
+- Learning about AI & LLMs
+- Exploring GitHub communities and building my first public projects
+
+---
+
+### 📌 Goals for 2025:
+- Build 10 mini-projects in Python  
+- Contribute to 1 open-source project  
+- Learn the basics of machine learning  
+- Connect with like-minded learners online
+
+---
+
+### 🔗 Let's connect (coming soon):
+[Portfolio](#) | [LinkedIn](#) | [Email](#)
+
+---
+
+🧠 “Success isn't about being the smartest. It's about staying curious, consistent, and committed.”
 
 <!--
 **zainul-aabdeen/zainul-aabdeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
