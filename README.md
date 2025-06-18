@@ -21,9 +21,11 @@
 
 ---
 
-### 🔗 Let's connect (coming soon):
-[Portfolio](#) | [LinkedIn](#) | [zainulcode@gmail.com](#)
+### 📬 Connect with Me
 
+- 📧 Email: [zainulcode@gmail.com](mailto:zainulcode@gmail.com)
+- 🧠 Portfolio: coming soon
+- 💼 LinkedIn: coming soon
 ---
 
 🧠 “Success isn't about being the smartest. It's about staying curious, consistent, and committed.”
