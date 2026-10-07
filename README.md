@@ -1,24 +1,40 @@
 # Hi, I'm Zainul 👋
 
-🎓 Aspiring AI & Python Developer  
-💻 Learning to build real-world projects  
-📚 Currently focused on Python, GitHub, and AI basics
+🎓 B.Tech student in Artificial Intelligence & Machine Learning at TCET, Mumbai  
+💻 I build data-driven projects in Python and web technologies  
+📚 Currently focused on data structures & algorithms, AI/ML, and software engineering
 
 ---
 
-### 🌱 What I'm doing right now:
-- Solving Python challenges
+### 🚀 Featured Project
+
+**[MHT-CET College Engine](https://mht-cet-college-engine-zainul-aabdeen.vercel.app/)**: a searchable MHT-CET CAP directory with admission cutoffs, college information, placement records, and recruiter data for 350+ colleges and 120+ branches.  
+[Live Demo](https://mht-cet-college-engine-zainul-aabdeen.vercel.app/) · [GitHub Repo](https://github.com/zainul-aabdeen/MHT-CET-PREDICTOR-zainul-aabdeen)
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, C, C++, Java, JavaScript
+- **Libraries & Concepts:** OOP, Pygame
+- **Tools:** Git, GitHub, Vim
+- **OS:** Linux (Arch, Kali), Windows
+
+---
+
+### 🌱 What I'm doing right now
+
+- Strengthening my fundamentals in Python, C++, Java, and JavaScript
 - Learning about AI & LLMs
-- Exploring GitHub communities and building my first public projects
+- Building and deploying more projects
 
 ---
 
 ### 📬 Connect with Me
 
 - 📧 Email: [zainulcode@gmail.com](mailto:zainulcode@gmail.com)
-- 🧠 Portfolio: coming soon
-- 💼 LinkedIn: [ZAINUL AABDEEN](www.linkedin.com/in/zainul-aabdeen)
+- 💼 LinkedIn: [Zainul Aabdeen](https://www.linkedin.com/in/zainul-aabdeen)
+
 ---
 
 🧠 “Success isn't about being the smartest. It's about staying curious, consistent, and committed.”
-
