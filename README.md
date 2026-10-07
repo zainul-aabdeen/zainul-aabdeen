@@ -13,34 +13,12 @@
 
 ---
 
-### 📌 Goals for 2025:
-- Build 10 mini-projects in Python  
-- Contribute to 1 open-source project  
-- Learn the basics of machine learning  
-- Connect with like-minded learners online
-
----
-
 ### 📬 Connect with Me
 
 - 📧 Email: [zainulcode@gmail.com](mailto:zainulcode@gmail.com)
 - 🧠 Portfolio: coming soon
-- 💼 LinkedIn: coming soon
+- 💼 LinkedIn: [ZAINUL AABDEEN](www.linkedin.com/in/zainul-aabdeen)
 ---
 
 🧠 “Success isn't about being the smartest. It's about staying curious, consistent, and committed.”
 
-<!--
-**zainul-aabdeen/zainul-aabdeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
